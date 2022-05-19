@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="get_products">Get Products</string>
+    <string name="no_products">No Products</string>
+    <string name="error_product_msg">Error in fetching products</string>
+    <string name="rupee">Rs. </string>
+</resources>
